@@ -37,12 +37,13 @@ https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases[release page].
 ** Or you can download them directly:
 *** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/ComfyUI_Windows_portable_cu130.7z.001[ComfyUI_Windows_portable_cu130.7z.001]
 *** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/ComfyUI_Windows_portable_cu130.7z.002[ComfyUI_Windows_portable_cu130.7z.002]
+*** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/ComfyUI_Windows_portable_cu130.7z.003[ComfyUI_Windows_portable_cu130.7z.003]
 *** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/models.zip[models.zip] (If you are upgrading from a previous release, you don't need this file.)
 
 . After downloading the files, place them in the same directory, then open and extract the `001` file.
 ** Extract to a shallow directory path, such as `C:\AI\`, to avoid errors caused by long paths (exceeding the MAX_PATH limit of 260 characters).
 
-** You do not need to open the `002` file. The extraction software will automatically handle it when decompressing the `001` file. They are two parts of a single large archive created using "split compression".
+** You do not need to open the `002` and `003` files. The extraction software will automatically handle them when decompressing the `001` file. They are three parts of a single large archive created using "split compression".
 ** You can use https://www.7-zip.org/[7-Zip] for extraction.
 
 . Open the `models.zip` and extract it to the same place. 

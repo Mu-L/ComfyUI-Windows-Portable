@@ -36,13 +36,14 @@ https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases[发布页面]
 
 *** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/ComfyUI_Windows_portable_cu130.7z.001[ComfyUI_Windows_portable_cu130.7z.001]
 *** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/ComfyUI_Windows_portable_cu130.7z.002[ComfyUI_Windows_portable_cu130.7z.002]
+*** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/ComfyUI_Windows_portable_cu130.7z.003[ComfyUI_Windows_portable_cu130.7z.003]
 *** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/models.zip[models.zip] （模型包，如果是从之前版本升级，不需要下载）
 
 ** 打开 `.7z.001` 并解压（建议放在较浅的目录，比如 `C:\AI\` ，避免路径超长）
 
 ** 打开 `.zip` 并解压到同一个目录
 
-** 无需再打开 `.7z.002` 文件，它已随 `001` 一同解压
+** 无需再打开 `002` 以及 `.003` 文件，它们已随 `.001` 一同解压
 
 . 将 SD 模型放到 `ComfyUI\models\checkpoints` 或 `ComfyUI\models\diffusion_models` 下
 
