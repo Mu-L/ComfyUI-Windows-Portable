@@ -81,6 +81,7 @@ $gcs https://github.com/mcmonkeyprojects/sd-dynamic-thresholding.git
 $gcs https://github.com/twri/sdxl_prompt_styler.git
 $gcs https://github.com/pamparamm/ComfyUI-ppm.git
 $gcs https://github.com/KohakuBlueleaf/z-tipo-extension.git
+$gcs https://github.com/ClownsharkBatwing/RES4LYF.git
 
 # Video
 $gcs https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git

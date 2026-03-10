@@ -20,6 +20,7 @@ platformdirs
 protobuf
 pycocotools
 pymatting
+pywavelets
 Requests
 rotary-embedding-torch
 shapely

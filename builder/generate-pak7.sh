@@ -26,6 +26,7 @@ https://github.com/willmiao/ComfyUI-Lora-Manager/raw/refs/heads/main/requirement
 https://github.com/alexopus/ComfyUI-Image-Saver/raw/refs/heads/master/requirements.txt
 https://github.com/KohakuBlueleaf/z-tipo-extension/raw/refs/heads/main/requirements.txt
 https://github.com/1038lab/ComfyUI-QwenVL/raw/refs/heads/main/requirements.txt
+https://github.com/ClownsharkBatwing/RES4LYF/raw/refs/heads/main/requirements.txt
 )
 
 for line in "${array[@]}";
