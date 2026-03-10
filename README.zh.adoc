@@ -112,6 +112,9 @@ image::docs/screenshot-launcher.zh.webp["启动器截图"]
 |link:https://github.com/florestefano1975/comfyui-portrait-master[Portrait Master]
 |link:https://github.com/mcmonkeyprojects/sd-dynamic-thresholding[SD Dynamic Thresholding]
 |link:https://github.com/twri/sdxl_prompt_styler[SDXL Prompt Styler]
+|link:https://github.com/ClownsharkBatwing/RES4LYF[RES4LYF]
+|
+|
 3+|**视频**
 |link:https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite[Video Helper Suite]
 |link:https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler[SeedVR2_VideoUpscaler]
