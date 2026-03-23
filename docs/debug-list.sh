@@ -6,12 +6,15 @@ echo '#' > debug-list.txt
 array=(
 https://github.com/Comfy-Org/ComfyUI/raw/refs/heads/master/requirements.txt
 https://github.com/Comfy-Org/ComfyUI-Manager/raw/refs/heads/main/requirements.txt
+https://github.com/1038lab/ComfyUI-QwenVL/raw/refs/heads/main/requirements.txt
 https://github.com/akatz-ai/ComfyUI-AKatz-Nodes/raw/refs/heads/main/requirements.txt
 https://github.com/akatz-ai/ComfyUI-DepthCrafter-Nodes/raw/refs/heads/main/requirements.txt
+https://github.com/alexopus/ComfyUI-Image-Saver/raw/refs/heads/master/requirements.txt
 https://github.com/Amorano/Jovimetrix/raw/refs/heads/main/requirements.txt
 https://github.com/chflame163/ComfyUI_LayerStyle/raw/refs/heads/main/repair_dependency_list.txt
 https://github.com/chflame163/ComfyUI_LayerStyle/raw/refs/heads/main/requirements.txt
 https://github.com/city96/ComfyUI-GGUF/raw/refs/heads/main/requirements.txt
+https://github.com/ClownsharkBatwing/RES4LYF/raw/refs/heads/main/requirements.txt
 https://github.com/crystian/ComfyUI-Crystools/raw/refs/heads/main/requirements.txt
 https://github.com/cubiq/ComfyUI_essentials/raw/refs/heads/main/requirements.txt
 https://github.com/cubiq/ComfyUI_FaceAnalysis/raw/refs/heads/main/requirements.txt
@@ -29,6 +32,7 @@ https://github.com/Jonseed/ComfyUI-Detail-Daemon/raw/refs/heads/main/requirement
 https://github.com/kijai/ComfyUI-DepthAnythingV2/raw/refs/heads/main/requirements.txt
 https://github.com/kijai/ComfyUI-Florence2/raw/refs/heads/main/requirements.txt
 https://github.com/kijai/ComfyUI-KJNodes/raw/refs/heads/main/requirements.txt
+https://github.com/KohakuBlueleaf/z-tipo-extension/raw/refs/heads/main/requirements.txt
 https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/raw/refs/heads/main/requirements.txt
 https://github.com/Ltamann/ComfyUI-TBG-SAM3/raw/refs/heads/main/requirements.txt
 https://github.com/ltdrdata/ComfyUI-Impact-Pack/raw/refs/heads/Main/requirements.txt
@@ -42,12 +46,8 @@ https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler/raw/refs/heads/main/requir
 https://github.com/nunchaku-tech/ComfyUI-nunchaku/raw/refs/heads/main/requirements.txt
 https://github.com/pydn/ComfyUI-to-Python-Extension/raw/refs/heads/main/requirements.txt
 https://github.com/welltop-cn/ComfyUI-TeaCache/raw/refs/heads/main/requirements.txt
-https://github.com/yolain/ComfyUI-Easy-Use/raw/refs/heads/main/requirements.txt
 https://github.com/willmiao/ComfyUI-Lora-Manager/raw/refs/heads/main/requirements.txt
-https://github.com/alexopus/ComfyUI-Image-Saver/raw/refs/heads/master/requirements.txt
-https://github.com/KohakuBlueleaf/z-tipo-extension/raw/refs/heads/main/requirements.txt
-https://github.com/1038lab/ComfyUI-QwenVL/raw/refs/heads/main/requirements.txt
-https://github.com/ClownsharkBatwing/RES4LYF/raw/refs/heads/main/requirements.txt
+https://github.com/yolain/ComfyUI-Easy-Use/raw/refs/heads/main/requirements.txt
 )
 
 for line in "${array[@]}"; do

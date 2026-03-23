@@ -4,6 +4,7 @@ aiohttp
 albumentations
 alembic
 av
+blake3
 cachetools
 chardet
 clip-interrogator
