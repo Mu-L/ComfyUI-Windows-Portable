@@ -15,4 +15,4 @@ https://github.com/woct0rdho/SpargeAttn/releases/download/v0.1.0-windows.post4/s
 https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.7.13/flash_attn-2.8.3+cu130torch2.10-cp313-cp313-win_amd64.whl
 
 # llama-cpp-python
-https://github.com/JamePeng/llama-cpp-python/releases/download/v0.3.32-cu130-Basic-win-20260308/llama_cpp_python-0.3.32+cu130.basic-cp313-cp313-win_amd64.whl
+https://github.com/JamePeng/llama-cpp-python/releases/download/v0.3.33-cu130-Basic-win-20260315/llama_cpp_python-0.3.33+cu130.basic-cp313-cp313-win_amd64.whl
