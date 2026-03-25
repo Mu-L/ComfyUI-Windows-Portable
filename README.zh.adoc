@@ -71,7 +71,7 @@ image::docs/screenshot-launcher.zh.webp["启动器截图"]
 [cols=3]
 |===
 3+|**性能**
-|link:https://github.com/nunchaku-tech/ComfyUI-nunchaku[Nunchaku]
+|link:https://github.com/nunchaku-ai/ComfyUI-nunchaku[Nunchaku]
 |link:https://github.com/city96/ComfyUI-GGUF[GGUF]
 |link:https://github.com/woct0rdho/ComfyUI-RadialAttn[RadialAttention]
 3+|**工作空间**

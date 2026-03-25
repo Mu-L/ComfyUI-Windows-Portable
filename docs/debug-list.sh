@@ -43,7 +43,7 @@ https://github.com/melMass/comfy_mtb/raw/refs/heads/main/requirements.txt
 https://github.com/mirabarukaso/ComfyUI_Mira/raw/refs/heads/main/requirements.txt
 https://github.com/neverbiasu/ComfyUI-SAM2/raw/refs/heads/main/requirements.txt
 https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler/raw/refs/heads/main/requirements.txt
-https://github.com/nunchaku-tech/ComfyUI-nunchaku/raw/refs/heads/main/requirements.txt
+https://github.com/nunchaku-ai/ComfyUI-nunchaku/raw/refs/heads/main/requirements.txt
 https://github.com/pydn/ComfyUI-to-Python-Extension/raw/refs/heads/main/requirements.txt
 https://github.com/welltop-cn/ComfyUI-TeaCache/raw/refs/heads/main/requirements.txt
 https://github.com/willmiao/ComfyUI-Lora-Manager/raw/refs/heads/main/requirements.txt
