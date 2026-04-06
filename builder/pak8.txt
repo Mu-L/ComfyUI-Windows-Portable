@@ -11,9 +11,11 @@ https://github.com/woct0rdho/SageAttention/releases/download/v2.2.0-windows.post
 # SpargeAttention
 https://github.com/woct0rdho/SpargeAttn/releases/download/v0.1.0-windows.post4/spas_sage_attn-0.1.0+cu130torch2.9.0andhigher.post4-cp39-abi3-win_amd64.whl
 
+# FlashAttention 2
+https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.9.6/flash_attn-2.8.3+cu130torch2.11-cp313-cp313-win_amd64.whl
+
 # FlashAttention 3
-# TODO: update to pt211
-https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.9.3/flash_attn_3-3.0.0+cu130torch2.10gite2743ab-cp39-abi3-win_amd64.whl
+https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.9.6/flash_attn_3-3.0.0+cu130torch2.11gite2743ab-cp39-abi3-win_amd64.whl
 
 # llama-cpp-python
 https://github.com/JamePeng/llama-cpp-python/releases/download/v0.3.33-cu130-Basic-win-20260315/llama_cpp_python-0.3.33+cu130.basic-cp313-cp313-win_amd64.whl
