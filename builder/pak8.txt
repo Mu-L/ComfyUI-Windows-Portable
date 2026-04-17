@@ -18,4 +18,4 @@ https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0
 https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.9.6/flash_attn_3-3.0.0+cu130torch2.11gite2743ab-cp39-abi3-win_amd64.whl
 
 # llama-cpp-python
-https://github.com/JamePeng/llama-cpp-python/releases/download/v0.3.33-cu130-Basic-win-20260315/llama_cpp_python-0.3.33+cu130.basic-cp313-cp313-win_amd64.whl
+https://github.com/JamePeng/llama-cpp-python/releases/download/v0.3.36-cu130-Basic-win-20260417/llama_cpp_python-0.3.36+cu130.basic-cp313-cp313-win_amd64.whl
