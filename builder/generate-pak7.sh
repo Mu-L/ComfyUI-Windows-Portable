@@ -41,7 +41,10 @@ sed -i 's/; platform-system=="Windows"//' pak7.txt
 
 sort -ufo pak7.txt pak7.txt
 
-# Remove duplicate items, compare to pak4.txt, pak5.txt, pak6.txt
+# Remove duplicate items
+grep -Fixv -f pak1.txt pak7.txt > temp.txt && mv temp.txt pak7.txt
+grep -Fixv -f pak2.txt pak7.txt > temp.txt && mv temp.txt pak7.txt
+grep -Fixv -f pak3.txt pak7.txt > temp.txt && mv temp.txt pak7.txt
 grep -Fixv -f pak4.txt pak7.txt > temp.txt && mv temp.txt pak7.txt
 grep -Fixv -f pak5.txt pak7.txt > temp.txt && mv temp.txt pak7.txt
 grep -Fixv -f pak6.txt pak7.txt > temp.txt && mv temp.txt pak7.txt

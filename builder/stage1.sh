@@ -12,7 +12,7 @@ ls -lahF
 
 # Download Python Standalone
 curl -sSL \
-https://github.com/astral-sh/python-build-standalone/releases/download/20260504/cpython-3.13.13+20260504-x86_64-pc-windows-msvc-install_only.tar.gz \
+https://github.com/astral-sh/python-build-standalone/releases/download/20260510/cpython-3.13.13+20260510-x86_64-pc-windows-msvc-install_only.tar.gz \
     -o python.tar.gz
 tar -zxf python.tar.gz
 mv python python_standalone
@@ -20,12 +20,9 @@ mv python python_standalone
 # PIP installs
 $pip_exe install --upgrade pip wheel setuptools
 
+$pip_exe install -r "$workdir"/pak1.txt
 $pip_exe install -r "$workdir"/pak2.txt
 $pip_exe install -r "$workdir"/pak3.txt
-
-# Temp-fix for version chaos of Transformers
-$pip_exe install transformers
-
 $pip_exe install -r "$workdir"/pak4.txt
 
 # Temp-fix for ONNX Runtime on cu13

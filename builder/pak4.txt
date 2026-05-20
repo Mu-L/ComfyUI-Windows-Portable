@@ -1,7 +1,4 @@
-accelerate
-diffusers
 ftfy
-huggingface-hub
 imageio[ffmpeg]
 joblib
 kornia
@@ -25,4 +22,3 @@ scikit-learn
 scipy
 timm
 torchmetrics
-transformers

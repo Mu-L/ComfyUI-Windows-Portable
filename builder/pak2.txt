@@ -1,2 +1,6 @@
-Cython
-cmake
+--index-url https://download.pytorch.org/whl/cu130
+xformers
+torch==2.11.0
+torchvision
+torchaudio
+torchcodec
